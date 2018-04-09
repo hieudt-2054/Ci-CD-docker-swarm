@@ -1,0 +1,7 @@
+.actionBtn{
+    display: inline-block;
+}
+
+.actionBtn>a{
+    width: 75px;
+}

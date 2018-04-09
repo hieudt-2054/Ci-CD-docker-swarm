@@ -1,0 +1,30 @@
+.panel-stat span{
+	color: #fff;
+}
+.panel-heading {
+  padding: 10px 15px;
+}
+.right-button .btn-group .btn-default{
+	background: #fff;
+	margin-top: -20px;
+}
+.required{
+	color: red;
+}
+.pt-20{
+	padding-top: 20px;
+}
+.pt-5{
+	padding-top: 5px;
+}
+.mt-30{
+	margin-top: 30px;
+}
+.table td > a > .fa{
+	font-size: 13px;
+}
+.btn-rounded{
+	border-radius: 20px; 
+	-moz-border-radius: 20px; 
+	-webkit-border-radius: 20px;
+}

@@ -1,0 +1,35 @@
+.customLabel {
+    display: block;
+    width: 160px;
+    padding: 10px 0;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.dataTables_empty {
+    text-align: center;
+}
+
+.centerMargin{
+    margin: 0 auto;
+}
+
+.dataTables_processing {
+    outline: none;
+    border: none;
+    background: transparent;
+}
+
+.form-label{
+    width: 100px;
+    display: inline-block;
+}
+
+.form-element{
+    width: 300px;
+    display: inline-block;
+}
+
+.form-element-content{
+    width: 100%;
+}
